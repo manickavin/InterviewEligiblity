@@ -35,5 +35,7 @@ public class Eligiblity {
 		d.details();
 		
 		System.out.println("now this is branch A");
-		}
+		System.out.println("Now branch B also updated");
+		
+}
 }
