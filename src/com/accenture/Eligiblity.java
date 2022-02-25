@@ -33,5 +33,8 @@ public class Eligiblity {
 		
 		StudentDetails d = new StudentDetails();
 		d.details();
+		
+		System.out.println("Now branch B also updated");
+		
 		}
 }
